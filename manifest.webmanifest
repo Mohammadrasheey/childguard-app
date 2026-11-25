@@ -1,0 +1,18 @@
+{
+  "name": "CHILD-GUARD outbreak forecasts",
+  "short_name": "CHILD-GUARD",
+  "description": "Next-week childhood disease outbreak forecasts for Kano State LGAs.",
+  "id": "./",
+  "start_url": "./#forecasts",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f7f6",
+  "theme_color": "#0d6b75",
+  "categories": ["health", "medical"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
